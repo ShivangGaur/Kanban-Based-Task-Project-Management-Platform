@@ -1,4 +1,4 @@
-# trello-clone ![Build status](https://github.com/knowankit/trello-clone/actions/workflows/main.yml/badge.svg)
+# Daily Planner ![Build status](https://github.com/knowankit/trello-clone/actions/workflows/main.yml/badge.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -107,3 +107,4 @@ Made with [contributors-img](https://contrib.rocks).
 This project is licensed under the **MIT license**.
 
 See [LICENSE](LICENSE) for more information.
+
